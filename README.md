@@ -1,2 +1,5 @@
 # installer-simulator
-Simulates like how an installer would be in java. (Rushed this!)
+Simulates how an installer would be in Java. (Rushed this!)  
+
+Check out the program here on Replit!
+https://replit.com/@t4risweb/InstallerSimulator
